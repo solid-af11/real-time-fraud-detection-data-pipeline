@@ -296,5 +296,5 @@ MIT — feel free to use this project as a reference or starting point.
 ---
 
 <div align="center">
-Built with ❤️ as a data engineering portfolio project
+Built with ❤️
 </div>
